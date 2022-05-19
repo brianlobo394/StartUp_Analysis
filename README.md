@@ -1,4 +1,4 @@
-# Movie Recommendation Analysis
+# StartUp Analysis
 This is a project for Analyzing Startup companies in India. In this project we will analyze the top Startup companies and its various factors .
 
 ## Project Objective
