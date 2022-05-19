@@ -17,7 +17,7 @@ We all are aware about the Startup wave in India, and there are different compan
 * Seaborn
 
 ## Getting Started
-#### FIFA18 Data
+#### Startup Data
 Raw Data is being kept [here](https://github.com/brianlobo394/StartUp_Analysis/blob/master/startup_funding.csv) within this repository.\
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.
 
